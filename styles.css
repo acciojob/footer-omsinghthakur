@@ -1,8 +1,33 @@
-.media-icons{ 
-	display:flex;
-	flex-flow:row-wrap; 
-}
-.link-boxes{
-	display:flex;
-	flex-flow:row-wrap; 
-} 
+.footer-section {
+    background-color: #222;
+    color: #fff;
+    padding: 60px 0;
+  }
+  .footer-logo a {
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+  }
+  .footer-logo a:hover {
+    color: #ccc;
+  }
+  .footer-links li {
+    padding: 5px 0;
+  }
+  .footer-links li a {
+    color: #fff;
+  }
+  .footer-links li a:hover {
+    color: #ccc;
+  }
+  .social-links li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  .social-links li a {
+    color: #fff;
+    font-size: 18px;
+  }
+  .social-links li a:hover {
+    color: #ccc;
+  } 
