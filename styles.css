@@ -31,3 +31,9 @@
   .media-icons li a:hover { 
     color: #ccc;
   } 
+.media-icons{
+	display:flex;
+}
+.link-boxes{
+	display:flex; 
+	justify-content:space-evenly; 
