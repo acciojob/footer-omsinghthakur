@@ -11,23 +11,23 @@
   .footer-logo a:hover {
     color: #ccc;
   }
-  .footer-links li {
+  .link-boxes li {
     padding: 5px 0;
   }
-  .footer-links li a {
+  .link-boxes li a {
     color: #fff;
   }
-  .footer-links li a:hover {
+  .link-boxes li a:hover {
     color: #ccc;
   }
-  .social-links li {
+  .media-icons li {
     display: inline-block;
     margin-right: 10px;
   }
-  .social-links li a {
+  .media-icons li a {
     color: #fff;
     font-size: 18px;
   }
-  .social-links li a:hover {
+  .media-icons li a:hover { 
     color: #ccc;
   } 
