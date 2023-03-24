@@ -1,1 +1,8 @@
-/* your code here */
+.media-icons{ 
+	display:flex;
+	flex-flow:row-wrap; 
+}
+.link-boxes{
+	display:flex;
+	flex-flow:row-wrap; 
+} 
